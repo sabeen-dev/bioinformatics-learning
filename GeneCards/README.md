@@ -51,7 +51,32 @@ Observe:
 
 ## Screenshots
 
+## TP53 gene Overview
 
+![TP53 Overview](gene_search_tp53.png)
+
+---
+
+## Location of TP53 gene
+
+![Location](location-of-tp53.png)
+
+---
+## Molecular Interaction of Interactive genes with TP53
+
+![Interaction of tp53](molecular-interaction-of-interacting-genes-with--tp53.png)
+
+---
+
+## Protein & RNA Expression of TP53
+
+![Protein & RNA Expression of TP53](protein-RNA-expression-tp53.png)
+
+---
+
+## Protein Structure of TP53
+
+![protein structure](protein-structure-tp53.png)
 
 ---
 
