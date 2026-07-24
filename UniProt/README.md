@@ -1,76 +1,106 @@
-# 🧬 UniProt
+# UniProt
 
-UniProt (Universal Protein Resource) is one of the world's largest protein databases. It provides detailed information about protein sequences, functions, structures, domains, biological processes, and interactions.
+## What is UniProt?
 
----
+UniProt is a comprehensive protein knowledgebase providing detailed information about proteins, including their biological function, sequence, structure, localization, interactions, and associated diseases.
 
-## 🌐 Official Website
-
+## Website:
 https://www.uniprot.org/
 
 ---
 
-## 🎯 Purpose
+## Why I Used UniProt
 
-UniProt is used for:
+During my Final Year Project, UniProt was used to obtain detailed protein information for the selected target proteins involved in skin cancer.
 
-- Protein sequence retrieval
-- Protein function analysis
-- Protein domains
-- Biological processes
-- Cellular localization
-- Protein interactions
-- Downloading FASTA sequences
+The information collected included:
 
----
-
-# Example Search
-
-In this example, I searched for the **TP53** protein.
-
-## 🔍 Protein Search
-
-(Add Screenshot Here)
+- Protein Function
+- Subcellular Location
+- Protein Structure
+- Protein Sequence
+- Protein Interactions
+- Disease Associations
 
 ---
 
-## 🧬 Protein Information
+# Example: TP53 Protein
 
-(Add Screenshot Here)
+## Protein Overview
 
----
+![Protein Overview](protein-search.png)
 
-## 📍 Protein Function
+The TP53 protein page provides a summary including:
 
-(Add Screenshot Here)
-
----
-
-## 📄 FASTA Sequence
-
-(Add Screenshot Here)
-
----
-
-## 🔗 Cross References
-
-(Add Screenshot Here)
+- Protein Name
+- Gene Name
+- Organism
+- Protein Length
+- Evidence Level
+- Accession Number
 
 ---
 
-# 📝 My Notes
+## Subcellular Location
 
-### What I learned
+![Subcellular Location](subcellular-location.png)
 
-- UniProt focuses on proteins rather than genes.
-- It provides curated protein information.
-- FASTA sequences can be downloaded for further analyses.
-- UniProt links to PDB, AlphaFold, KEGG, GeneCards, STRING and many other databases.
+This section shows where the protein is located inside the cell.
+
+Examples include:
+
+- Nucleus
+- Cytoplasm
+- Cell membrane
+- Mitochondria
 
 ---
 
-# 📚 References
+## Interaction
 
-UniProt Official Website
+![Protein Interaction](interaction.png)
 
-https://www.uniprot.org/
+UniProt provides interaction information showing proteins that interact with the selected protein.
+
+---
+
+## Structure
+
+![Structure](protein-structure.png)
+
+The Structure section links experimental or predicted protein structures.
+
+These structures can later be used for molecular docking studies.
+
+---
+
+# Importance in Bioinformatics
+
+UniProt is one of the most important biological databases because it integrates information from multiple biological resources into one platform.
+
+It is widely used for:
+
+- Protein annotation
+- Drug target identification
+- Functional analysis
+- Network pharmacology
+- Molecular docking
+- Systems biology
+
+---
+
+# Skills Learned
+
+✔ Searching proteins
+
+✔ Reading protein annotations
+
+✔ Understanding protein functions
+
+✔ Exploring protein interactions
+
+✔ Studying protein localization
+
+✔ Accessing protein structures
+
+✔ Downloading protein sequences
