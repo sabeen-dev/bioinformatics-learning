@@ -38,15 +38,15 @@ While learning STRING, I practiced:
 # Workflow
 
 Gene/Protein List
-        ↓
+        →
 Import into STRING
-        ↓
+        →
 Protein Interaction Network
-        ↓
+        →
 Network Statistics
-        ↓
+        →
 Functional Enrichment Analysis
-        ↓
+        →
 Export to Cytoscape
 
 ---
