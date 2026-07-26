@@ -52,8 +52,6 @@ Choose:
 
 Submit the list.
 
-![Step 1](select-kegg.png)
-
 ---
 
 ## Step 2
@@ -78,6 +76,7 @@ Choose:
 
 This option identifies biological pathways significantly enriched in the uploaded gene list.
 
+![Step 4](select-kegg.png)
 ---
 
 ## Step 5
