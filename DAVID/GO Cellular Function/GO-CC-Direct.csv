@@ -1,0 +1,8 @@
+"Category","Term","Count","List Total","Pop Hits","Pop Total","P-Value","Benjamini","Fold Enrichment","Bonferroni","FDR","Fisher Exact","Full Term","User Ids"
+"GOTERM_CC_DIRECT","endoplasmic reticulum lumen","4","9","340","20299","2.45e-4","1.72e-2","26.53","1.70e-2","1.72e-2","9.12e-6","GO:0005788~endoplasmic reticulum lumen","COL18A1,IL6,PTGS2,MAPK3"
+"GOTERM_CC_DIRECT","glutamatergic synapse","3","9","617","20299","2.29e-2","5.91e-1","10.97","8.02e-1","5.91e-1","2.05e-3","GO:0098978~glutamatergic synapse","CASP3,AKT1,MAPK3"
+"GOTERM_CC_DIRECT","transcription repressor complex","2","9","65","20299","2.53e-2","5.91e-1","69.40","8.34e-1","5.91e-1","3.58e-4","GO:0017053~transcription repressor complex","JUN,TP53"
+"GOTERM_CC_DIRECT","protein-containing complex","3","9","815","20299","3.84e-2","6.72e-1","8.30","9.35e-1","6.72e-1","4.52e-3","GO:0032991~protein-containing complex","AKT1,TNF,TP53"
+"GOTERM_CC_DIRECT","nucleoplasm","5","9","4364","20299","7.10e-2","9.94e-1","2.58","9.94e-1","9.94e-1","2.65e-2","GO:0005654~nucleoplasm","JUN,CASP3,AKT1,TP53,MAPK3"
+"GOTERM_CC_DIRECT","transcription regulator complex","2","9","252","20299","9.51e-2","1.00e+0","17.90","9.99e-1","1.00e+0","5.22e-3","GO:0005667~transcription regulator complex","JUN,TP53"
+
