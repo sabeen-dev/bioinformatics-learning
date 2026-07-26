@@ -1,0 +1,11 @@
+"Category","Term","Count","List Total","Pop Hits","Pop Total","P-Value","Benjamini","Fold Enrichment","Bonferroni","FDR","Fisher Exact","Full Term","User Ids"
+"GOTERM_MF_DIRECT","identical protein binding","7","9","1852","19319","1.82e-5","1.60e-3","8.11","1.60e-3","1.60e-3","2.23e-6","GO:0042802~identical protein binding","COL18A1,IL6,JUN,AKT1,TNF,TP53,MAPK3"
+"GOTERM_MF_DIRECT","enzyme binding","4","9","416","19319","5.12e-4","2.25e-2","20.64","4.41e-2","2.25e-2","2.45e-5","GO:0019899~enzyme binding","JUN,AKT1,PTGS2,TP53"
+"GOTERM_MF_DIRECT","protease binding","3","9","113","19319","9.28e-4","2.72e-2","56.99","7.84e-2","2.72e-2","1.60e-5","GO:0002020~protease binding","CASP3,TNF,TP53"
+"GOTERM_MF_DIRECT","general transcription initiation factor binding","2","9","12","19319","4.96e-3","1.09e-1","357.76","3.54e-1","1.09e-1","1.27e-5","GO:0140296~general transcription initiation factor binding","JUN,TP53"
+"GOTERM_MF_DIRECT","transcription cis-regulatory region binding","3","9","332","19319","7.70e-3","1.36e-1","19.40","4.93e-1","1.36e-1","3.91e-4","GO:0000976~transcription cis-regulatory region binding","JUN,TNF,TP53"
+"GOTERM_MF_DIRECT","14-3-3 protein binding","2","9","33","19319","1.36e-2","1.99e-1","130.09","7.00e-1","1.99e-1","1.01e-4","GO:0071889~14-3-3 protein binding","AKT1,TP53"
+"GOTERM_MF_DIRECT","protein binding","9","9","13951","19319","7.39e-2","7.89e-1","1.38","9.99e-1","7.89e-1","5.34e-2","GO:0005515~protein binding","COL18A1,IL6,JUN,CASP3,AKT1,PTGS2,TNF,TP53,MAPK3"
+"GOTERM_MF_DIRECT","RNA polymerase II-specific DNA-binding transcription factor binding","2","9","195","19319","7.80e-2","7.89e-1","22.02","9.99e-1","7.89e-1","3.48e-3","GO:0061629~RNA polymerase II-specific DNA-binding transcription factor binding","JUN,TP53"
+"GOTERM_MF_DIRECT","cytokine activity","2","9","202","19319","8.07e-2","7.89e-1","21.25","9.99e-1","7.89e-1","3.73e-3","GO:0005125~cytokine activity","IL6,TNF"
+
