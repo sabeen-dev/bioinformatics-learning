@@ -56,7 +56,7 @@ Choose:
 
 Click **Submit List**.
 
-![Step 1](images/step1-upload-gene-list.png)
+![Step 1](step1-upload-gene-list.png)
 
 ---
 
@@ -88,7 +88,7 @@ Select:
 
 This option provides directly annotated biological processes while reducing redundant GO terms.
 
-![Step 4](images/step4-select-bp.png)
+![Step 4](step4-select-bp.png)
 
 ---
 
@@ -100,7 +100,7 @@ Click:
 
 DAVID generates the enriched GO Biological Process results.
 
-![Step 5](images/step5-annotation-chart.png)
+![Step 5](step5-annotation-chart.png)
 
 ---
 
@@ -116,7 +116,7 @@ The most important columns include:
 - **Benjamini** – Multiple testing corrected P-value (False Discovery Rate).
 - **Fold Enrichment** – Degree of enrichment compared with random expectation.
 
-![Step 6](images/step6-go-bp-results.png)
+![Step 6](step6-go-bp-results.png)
 
 ---
 
