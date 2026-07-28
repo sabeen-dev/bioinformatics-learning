@@ -1,3 +1,0 @@
-# AutoDock
-
-Notes coming soon.
