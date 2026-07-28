@@ -1,3 +1,0 @@
-# PYMOL
-
-Nots coming soon
