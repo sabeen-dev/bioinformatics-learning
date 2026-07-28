@@ -1,3 +1,0 @@
-# KEGG
-
-Notes coming soon.
